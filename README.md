@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Java Technologies 
-- 🌱 I’m currently learning Docker and TDD
+- 🌱 I’m currently learning AWS.
 - 📫 How to reach me: ahmetkaygisiz17@gmail.com
 - :eyes: Online CV : https://ahmetkaygisiz.github.io/
 - :house:  Personal Blog : https://ahmetkaygisiz.space :tr:
