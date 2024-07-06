@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Openshift.
+- 🌱 I’m currently learning k8s.
 - 📫 How to reach me: ahmetkaygisiz17@gmail.com
-- :eyes: Online CV : https://ahmetkaygisiz.github.io/
+- :eyes: Inprogress : https://ahmetkaygisiz.github.io/
 - :house:  Personal Blog : http://sag.click :tr:
-- :office: Medium : https://medium.com/@ahmetkaygisiz :uk:
